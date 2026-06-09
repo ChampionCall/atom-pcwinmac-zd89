@@ -1,4 +1,4 @@
-# 
+# Top Atom flux de travail pour Mac OS | Personnalisé Atom flux de travail pour PC Windows. Avec scripts de test et recherche en texte intégral — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
